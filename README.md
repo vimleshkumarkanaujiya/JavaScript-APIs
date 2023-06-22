@@ -1,2 +1,3 @@
-# JavaScript-APIs
-JavaScript APIs
+# JavaScript APIs
+
+A list of JavaScript Examples.
